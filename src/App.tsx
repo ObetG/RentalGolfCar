@@ -27,35 +27,35 @@ const SERVICES = [
     title: "Rental Mobil Golf",
     desc: "Armada mobil golf berkualitas premium tersedia untuk resort, hotel, event, dan kegiatan komunitas golf dengan harga kompetitif.",
     icon: Truck,
-    img: "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?q=80&w=1344&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    img: "https://picsum.photos/600/400?random=golf1",
   },
   {
     title: "Perawatan & Service",
     desc: "Layanan perawatan berkala dan service teknis untuk memastikan setiap mobil golf dalam kondisi optimal dan siap digunakan.",
     icon: Wrench,
-    img: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=800",
+    img: "https://picsum.photos/600/400?random=service",
   },
   {
     title: "Sewa Jangka Panjang",
     desc: "Program sewa jangka panjang dengan harga khusus untuk resort, hotel, dan venue dengan layanan maintenance penuh.",
     icon: Settings,
-    img: "https://images.unsplash.com/photo-1770656505767-32ed52b1a8ca?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    img: "https://picsum.photos/600/400?random=longterm",
   },
   {
     title: "Customization",
     desc: "Kustomisasi sesuai kebutuhan - modifikasi warna, fitur tambahan, atau branding khusus untuk event dan promosi Anda.",
     icon: Hammer,
-    img: "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&q=80&w=800",
+    img: "https://picsum.photos/600/400?random=custom",
   },
 ];
 
 const GALLERY = [
-  "https://images.unsplash.com/photo-1768678123167-4c8347817f10?q=80&w=894&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
-  "https://images.unsplash.com/photo-1562118511-e0aa3d7b0373?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "https://images.unsplash.com/photo-1728998175036-48e22b84dd86?q=80&w=823&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "https://images.unsplash.com/photo-1651319422532-f39f30e347cb?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "https://images.unsplash.com/photo-1599256871489-f65ec878ac36?q=80&w=831&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "https://images.unsplash.com/photo-1684838200811-c2af07d2dada?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  "https://images.unsplash.com/photo-1634140144664-f84083f1090a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://images.unsplash.com/photo-1561251224-e393160cd769?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://plus.unsplash.com/premium_photo-1661774316407-56209baefa8c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://plus.unsplash.com/premium_photo-1679505066065-c71bbfd420e0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://images.unsplash.com/photo-1730372609361-0049718f5957?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://images.unsplash.com/photo-1745973980697-3ac467ffc642?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 ];
 
 const ADVANTAGES = [
@@ -80,22 +80,22 @@ const INDUSTRIES = [
   {
     name: "Resort & Hotel",
     icon: HardHat,
-    img: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=748&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    img: "https://images.unsplash.com/photo-1671798436311-a8f3c1d269bc?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Event & Festival",
     icon: Mountain,
-    img: "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    img: "https://images.unsplash.com/photo-1723743809861-0e035898de75?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Golf Course",
     icon: Leaf,
-    img: "https://images.unsplash.com/photo-1587280591015-7fb1e26fb41e?auto=format&fit=crop&q=80&w=800",
+    img: "https://plus.unsplash.com/premium_photo-1679758416078-e5da17160526?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Komunitas Golf",
     icon: Factory,
-    img: "https://images.unsplash.com/photo-1566560049849-a65b69ff51b1?auto=format&fit=crop&q=80&w=800",
+    img: "https://plus.unsplash.com/premium_photo-1661774373753-2dc8e8989383?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
@@ -107,10 +107,10 @@ export default function App() {
         <div className="flex justify-between items-center px-6 mx-auto max-w-7xl">
           <div className="flex gap-2 items-center">
             <div className="p-1.5 text-xl font-black tracking-tighter text-white bg-primary">
-              BIS
+              RGC
             </div>
             <span className="hidden font-bold tracking-tight text-white sm:block">
-              PT. BLAMBANGAN INDO SERVIS
+              RENTAL GOLF CAR
             </span>
           </div>
           <div className="hidden gap-8 items-center text-sm font-medium tracking-widest text-gray-300 uppercase md:flex">
@@ -143,7 +143,7 @@ export default function App() {
       <header className="flex overflow-hidden relative items-center h-screen">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://images.unsplash.com/photo-1555353540-64bb82f6e4c7?auto=format&fit=crop&q=80&w=1920"
+            src="https://picsum.photos/1920/1080?random=hero"
             alt="Golf Car Rental"
             className="object-cover w-full h-full grayscale-[0.5]"
             referrerPolicy="no-referrer"
@@ -168,7 +168,7 @@ export default function App() {
               </span>
             </h1>
             <p className="mb-10 max-w-2xl text-xl leading-relaxed text-gray-300">
-              PT. Blambangan Indo Servis menyediakan penyewaan mobil golf terbaik
+              Rental GOLF CAR menyediakan penyewaan mobil golf terbaik
               untuk resort, hotel, event, dan komunitas golf di seluruh Indonesia
               dengan armada modern dan pelayanan profesional.
             </p>
@@ -228,7 +228,7 @@ export default function App() {
                 Solusi Penyewaan Mobil Golf Terpercaya Untuk Setiap Kebutuhan.
               </h3>
               <p className="mb-8 text-lg leading-relaxed text-gray-600">
-                PT. Blambangan Indo Servis hadir sebagai penyedia penyewaan mobil
+                RENTAL GOLF CAR hadir sebagai penyedia penyewaan mobil
                 golf terbaik untuk resort, hotel, event, dan komunitas golf di
                 Indonesia. Dengan armada modern dan layanan profesional, kami siap
                 mendukung setiap kebutuhan penyewaan Anda.
@@ -267,14 +267,14 @@ export default function App() {
             >
               <div className="overflow-hidden aspect-[4/5] bg-industrial-dark">
                 <img
-                  src="https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&q=80&w=800"
+                  src="https://plus.unsplash.com/premium_photo-1678339698289-98714ac03ae2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Golf Course"
                   className="object-cover w-full h-full opacity-80"
                   referrerPolicy="no-referrer"
                 />
               </div>
               <div className="hidden absolute -bottom-10 -left-10 p-10 text-white md:block bg-primary">
-                <div className="mb-2 text-5xl font-black">BANYUWANGI</div>
+                <div className="mb-2 text-5xl font-black">Karawang</div>
                 <div className="text-sm font-bold tracking-widest uppercase opacity-80">
                   Base of Operations
                 </div>
@@ -400,7 +400,7 @@ export default function App() {
                 Core Values
               </h2>
               <h3 className="text-5xl font-black text-industrial-dark">
-                BIS VALUES
+                RGC VALUES
               </h3>
             </div>
             <div className="h-px bg-gray-200 md:w-2/3" />
