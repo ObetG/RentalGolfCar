@@ -1,0 +1,21 @@
+{
+  "name": "PT. Blambangan Indo Servis",
+  "short_name": "BIS",
+  "description": "One Stop Heavy Equipment Solution - Rental, Service, Maintenance & Fabrication",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#800000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/bis-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "id-ID",
+  "dir": "ltr"
+}
