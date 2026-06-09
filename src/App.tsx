@@ -143,7 +143,7 @@ export default function App() {
       <header className="flex overflow-hidden relative items-center h-screen">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://picsum.photos/1920/1080?random=hero"
+            src="https://plus.unsplash.com/premium_photo-1661848414795-c35b86a35e36?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGdvbGZjYXJ8ZW58MHx8MHx8fDA%3D"
             alt="Golf Car Rental"
             className="object-cover w-full h-full grayscale-[0.5]"
             referrerPolicy="no-referrer"
