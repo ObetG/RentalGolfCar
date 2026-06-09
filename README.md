@@ -1,10 +1,9 @@
-# PT. Blambangan Indo Servis �️
+# RENTAL GOLF CAR �️
 
 ### Premium Golf Car Rental Solution
 
-Website resmi **PT. Blambangan Indo Servis** — penyedia penyewaan mobil golf terpercaya di Indonesia. Menyediakan layanan rental mobil golf berkualitas, perawatan, sewa jangka panjang, dan customization untuk resort, hotel, event, dan komunitas golf.
+Website resmi **RENTAL GOLF CAR** — penyedia penyewaan mobil golf terpercaya di Indonesia. Menyediakan layanan rental mobil golf berkualitas, perawatan, sewa jangka panjang, dan customization untuk resort, hotel, event, dan komunitas golf.
 
-![Preview](https://github.com/ngetikin/blambanganindoservis/blob/main/bis-web-preview.jpeg?raw=true)
 
 ---
 
@@ -42,8 +41,8 @@ Website resmi **PT. Blambangan Indo Servis** — penyedia penyewaan mobil golf t
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/ngetikin/blambanganindoservis.git
-cd blambanganindoservis
+git clone https://github.com/ObetG/RentalGolfCar.git
+cd RentalGolfCar
 
 # 2. Install dependencies
 npm install
@@ -107,44 +106,9 @@ blambanganindoservis/
 
 ---
 
-## 👥 Team
-
-**PT. Blambangan Indo Servis** berbasis di Banyuwangi, Jawa Timur, Indonesia.
-
-| Role | Contact |
-|------|---------|
-| General Inquiry | blambanganindoservis@gmail.com |
-| Phone/WA | +62 822-2891-3588 |
-| Address | Banyuwangi, Jawa Timur, Indonesia |
-
----
-
-## 🤝 Contributing
-
-Kami terbuka untuk kontribusi! Jika Anda ingin melaporkan bug atau mengajukan fitur baru:
-
-1. Fork repository ini
-2. Buat feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-
----
-
 ## 📄 License
 
 Project ini dilisensikan di bawah **Apache-2.0 License**.
-
----
-
-## 📞 Contact
-
-**PT. Blambangan Indo Servis**
-
-- 🌐 Website: [blambanganindoservis.vercel.app](https://blambanganindoservis.vercel.app/)
-- 📧 Email: blambanganindoservis@gmail.com
-- 📱 WhatsApp: +62 822-2891-3588
-- 📍 Lokasi: Banyuwangi, Jawa Timur, Indonesia
 
 ---
 
