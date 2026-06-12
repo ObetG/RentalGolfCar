@@ -110,7 +110,7 @@ export default function App() {
               RGC
             </div>
             <span className="hidden font-bold tracking-tight text-white sm:block">
-              PT. PUPUK KIJANG - RENTAL GOLF CAR
+              PT. PUPUK KUJANG - RENTAL GOLF CAR
             </span>
           </div>
           <div className="hidden gap-8 items-center text-sm font-medium tracking-widest text-gray-300 uppercase md:flex">
@@ -495,12 +495,12 @@ export default function App() {
             golf yang sesuai dengan kebutuhan event atau venue Anda.
           </p>
           <a
-            href="https://wa.me/6282228913588"
+            href="https://wa.me/628812251813"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex gap-3 items-center py-5 px-10 font-black tracking-widest uppercase bg-white shadow-2xl transition-all text-primary hover:bg-industrial-light"
           >
-            <Phone className="w-6 h-6" /> Hubungi +62 822-2891-3588
+            <Phone className="w-6 h-6" /> Hubungi +62 881-2251-813
           </a>
         </div>
       </section>
@@ -546,7 +546,7 @@ export default function App() {
               <ul className="space-y-6">
                 <li className="flex gap-4 text-sm text-gray-400">
                   <Phone className="w-5 h-5 text-primary shrink-0" />
-                  <span>+62 822-2891-3588</span>
+                  <span>+62 881-2251-813</span>
                 </li>
                 <li className="flex gap-4 text-sm text-gray-400">
                   <Mail className="w-5 h-5 text-primary shrink-0" />
