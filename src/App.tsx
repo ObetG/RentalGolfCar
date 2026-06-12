@@ -515,7 +515,7 @@ export default function App() {
             <div className="lg:col-span-2">
               <div className="flex gap-2 items-center mb-8">
                 <div className="p-1.5 text-xl font-black tracking-tighter text-white bg-primary">
-                  BIS
+                  RGC
                 </div>
                 <span className="font-bold tracking-tight text-white">
                   RENTAL GOLF CAR
