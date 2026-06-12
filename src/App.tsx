@@ -110,7 +110,7 @@ export default function App() {
               RGC
             </div>
             <span className="hidden font-bold tracking-tight text-white sm:block">
-              RENTAL GOLF CAR
+              PT. PUPUK KIJANG - RENTAL GOLF CAR
             </span>
           </div>
           <div className="hidden gap-8 items-center text-sm font-medium tracking-widest text-gray-300 uppercase md:flex">
@@ -274,7 +274,7 @@ export default function App() {
                 />
               </div>
               <div className="hidden absolute -bottom-10 -left-10 p-10 text-white md:block bg-primary">
-                <div className="mb-2 text-5xl font-black">Bandung</div>
+                <div className="mb-2 text-5xl font-black">Karawang</div>
                 <div className="text-sm font-bold tracking-widest uppercase opacity-80">
                   Base of Operations
                 </div>
@@ -554,7 +554,7 @@ export default function App() {
                 </li>
                 <li className="flex gap-4 text-sm text-gray-400">
                   <MapPin className="w-5 h-5 text-primary shrink-0" />
-                  <span>Bandung, Jawa Barat, Indonesia</span>
+                  <span>Karawang, Jawa Barat, Indonesia</span>
                 </li>
               </ul>
             </div>
